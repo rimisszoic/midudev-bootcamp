@@ -1,0 +1,22 @@
+# Ignorar dependencias
+part1/node_modules/
+part1/.pnp/
+part1/.pnp.js
+
+# Ignorar resultados de test
+part1/coverage/
+
+# Ignorar archivos de producción
+part1/build/
+
+# Archivos temporales y de entorno
+part1/.DS_Store
+part1/.env.local
+part1/.env.development.local
+part1/.env.test.local
+part1/.env.production.local
+
+# Logs de errores
+part1/npm-debug.log*
+part1/yarn-debug.log*
+part1/yarn-error.log*
